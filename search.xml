@@ -11,6 +11,18 @@
         <content type="html"><![CDATA[<h2 id="测试文章2"><a href="#测试文章2" class="headerlink" title="测试文章2"></a>测试文章2</h2><p>222<br>这是公式测试$f(x)&#x3D;\frac{3}{x}^2$<br>333</p>]]></content>
       
       
+      <categories>
+          
+          <category> 博客测试 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 测试 </tag>
+            
+        </tags>
       
     </entry>
     
@@ -24,12 +36,46 @@
         <content type="html"><![CDATA[<h2 id="Sparklor的第一篇文章"><a href="#Sparklor的第一篇文章" class="headerlink" title="Sparklor的第一篇文章"></a>Sparklor的第一篇文章</h2><p>这是我测试的第一篇文章<code>article</code>！</p><ol><li>111</li><li>222</li></ol><figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line"><span class="built_in">print</span>(<span class="string">&#x27;Hello world!&#x27;</span>)</span><br></pre></td></tr></table></figure><p>$$<br>E&#x3D;MC^2<br>$$</p>]]></content>
       
       
+      <categories>
+          
+          <category> 博客测试 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 测试 </tag>
+            
+        </tags>
       
     </entry>
     
     
   
   
+    
+    
+    <entry>
+      <title>关于</title>
+      <link href="/about/index.html"/>
+      <url>/about/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>友情链接</title>
+      <link href="/link/index.html"/>
+      <url>/link/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
     
     
     <entry>
@@ -44,9 +90,9 @@
     
     
     <entry>
-      <title>关于</title>
-      <link href="/about/index.html"/>
-      <url>/about/index.html</url>
+      <title>分类</title>
+      <link href="/categories/index.html"/>
+      <url>/categories/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -69,28 +115,6 @@
       <title>标签</title>
       <link href="/tags/index.html"/>
       <url>/tags/index.html</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>分类</title>
-      <link href="/categories/index.html"/>
-      <url>/categories/index.html</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>友情链接</title>
-      <link href="/link/index.html"/>
-      <url>/link/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
